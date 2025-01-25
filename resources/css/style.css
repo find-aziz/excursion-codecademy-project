@@ -1,15 +1,24 @@
-*{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-body{
-    background-color: black;
-    text-align: center;
+body {
+  background-color: black;
+  text-align: center;
 }
-.main-heading{
-    color: white;
-    font-size: 50px;
+.main-heading {
+  color: white;
+  font-size: 50px;
 }
-.link{
-    color: aquamarine;
-    font-size: 16px;
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+.sub-heading {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+.paragraph {
+  font-size: 21px;
+  color: gray;
 }
